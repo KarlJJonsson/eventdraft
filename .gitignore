@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Terraform
+.terraform
+terraform.tfstate*
+lambda_function.zip
